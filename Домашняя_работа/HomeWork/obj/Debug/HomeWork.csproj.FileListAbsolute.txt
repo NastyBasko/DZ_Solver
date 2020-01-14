@@ -1,0 +1,12 @@
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\bin\Debug\HomeWork.exe.config
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\bin\Debug\HomeWork.exe
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\bin\Debug\HomeWork.pdb
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\bin\Debug\Microsoft.Solver.Foundation.dll
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.csprojAssemblyReference.cache
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.Form1.resources
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.Properties.Resources.resources
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.csproj.GenerateResource.cache
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.csproj.CopyComplete
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.exe
+D:\Учеба\Учеба\Настя\Моделирование процессов в АСУ ТП\Домашняя_работа_VS\HomeWork\obj\Debug\HomeWork.pdb

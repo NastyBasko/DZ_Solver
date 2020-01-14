@@ -1,0 +1,13 @@
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\bin\Release\HomeWork.exe.config
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\bin\Release\HomeWork.exe
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\bin\Release\HomeWork.pdb
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.csprojAssemblyReference.cache
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.Form1.resources
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.Properties.Resources.resources
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.csproj.GenerateResource.cache
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.csproj.CoreCompileInputs.cache
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.exe
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.pdb
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\bin\Release\Microsoft.Solver.Foundation.dll
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\bin\Release\Microsoft.Solver.Foundation.xml
+D:\Заказы\01_2020\57870_Excel_и_VS\Домашняя_работа_VS\HomeWork\obj\Release\HomeWork.csproj.CopyComplete
